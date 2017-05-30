@@ -1,0 +1,1 @@
+Some Spoj problem solutions
